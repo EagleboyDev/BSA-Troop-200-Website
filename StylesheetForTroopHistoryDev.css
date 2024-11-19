@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    color: green;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: transparent;
+    color: green;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+body {
+    background-image: url(TroopFlag.jpg);
+    background-size: cover;
+}
+
+p1 {
+    color: green;
+}
