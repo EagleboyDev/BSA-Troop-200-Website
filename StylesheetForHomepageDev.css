@@ -1,15 +1,18 @@
 nav {
     text-align: center;
+    background-color: lime;
 }
 
 h1 {
     text-align: center;
-    color: green;
+    color: lime;
+    background-color: darkgreen;
 }
 
 p {
     text-align: left;
-    color: green;
+    color: lime;
+    background-color: darkgreen;
 }
 
 .footer {
@@ -18,12 +21,13 @@ p {
     bottom: 0;
     width: 100%;
     background-color: transparent;
-    color: green;
+    color: blanchedalmond;
     text-align: center;
 }
 
 li {
     list-style-type: none;
+    background-color: lime;
 }
 
 body {
