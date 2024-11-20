@@ -1,15 +1,18 @@
 h1 {
     text-align: center;
-    color: green;
+    color: lime;
+    background-color: darkgreen;
 }
 
 p1 {
-    color: green;
+    color: lime;
+    background-color: darkgreen;
 }
 
 p {
     text-align: center;
-    color: green;
+    color: lime;
+    background-color: darkgreen;
 }
 
 p3 {
@@ -26,12 +29,13 @@ p2 {
     bottom: 0;
     width: 100%;
     background-color: transparent;
-    color: green;
+    color: blanchedalmond;
     text-align: center;
 }
 
 li {
     list-style-type: none;
+    background-color: lime;
 }
 
 body {
